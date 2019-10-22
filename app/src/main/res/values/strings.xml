@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">User-Input</string>
+    <string name="mealTotal">Total</string>
+    <string name="mealHint">Enter meal cost.</string>
+    <string name="calcText">Calculate</string>
+    <string-array name="spinTips">
+        <item>Tip 5%</item>
+        <item>Tip 10%</item>
+        <item>Tip 15%</item>
+        <item>Tip 20%</item>
+        <item>Tip 25%</item>
+    </string-array>
+</resources>
